@@ -1,5 +1,9 @@
 # airquality
 Prédiction des concentrations de polluants atmosphériques (CO, NO₂, NOx, C6H6) à partir du dataset AirQualityUCI — comparaison de régressions linéaires, Ridge, Lasso, Kernel Ridge (RBF) et réseau de neurones dense.
+
+[![Voir le notebook](https://img.shields.io/badge/Jupyter-Voir%20le%20notebook-orange?logo=jupyter)](https://nbviewer.org/github/el7abib/airquality/blob/main/airquality.ipynb)
+
+
 # Prédiction de la Qualité de l'Air — AirQualityUCI
 
 Analyse et modélisation de données de qualité de l'air à partir du dataset **AirQualityUCI**, avec comparaison de plusieurs approches de régression.
